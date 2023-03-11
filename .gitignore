@@ -1,7 +1,8 @@
 .vs
 Debug
-x64
+Networking/x64
 
 *.vcxproj*
+.gitignore
 
-*.sln
+Networking/*.sln
