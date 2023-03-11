@@ -1,8 +1,0 @@
-.vs
-Debug
-Networking/x64
-
-*.vcxproj*
-.gitignore
-
-Networking/*.sln
